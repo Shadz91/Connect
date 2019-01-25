@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95532" started-at="2019-01-25T16:02:06Z" finished-at="2019-01-25T16:03:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95532" started-at="2019-01-25T16:02:06Z" finished-at="2019-01-25T16:03:42Z">
+      <class name="testCases.ValidateErrorTest">
+        <test-method status="PASS" signature="y(java.lang.String, java.lang.String)[pri:0, instance:testCases.ValidateErrorTest@2b98378d]" name="y" duration-ms="29492" started-at="2019-01-25T21:32:07Z" data-provider="testData" finished-at="2019-01-25T21:32:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ATL]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[HOU]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- y -->
+        <test-method status="PASS" signature="y(java.lang.String, java.lang.String)[pri:0, instance:testCases.ValidateErrorTest@2b98378d]" name="y" duration-ms="27182" started-at="2019-01-25T21:32:36Z" data-provider="testData" finished-at="2019-01-25T21:33:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LAS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LAX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- y -->
+        <test-method status="PASS" signature="y(java.lang.String, java.lang.String)[pri:0, instance:testCases.ValidateErrorTest@2b98378d]" name="y" duration-ms="38319" started-at="2019-01-25T21:33:04Z" data-provider="testData" finished-at="2019-01-25T21:33:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[BWI]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MDW]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- y -->
+      </class> <!-- testCases.ValidateErrorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
